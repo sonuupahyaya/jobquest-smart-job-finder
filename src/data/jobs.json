@@ -1,0 +1,38 @@
+[
+  {
+    "job_id": "job_1",
+    "job_title": "Frontend Developer (React)",
+    "employer_name": "Alpha Tech",
+    "job_city": "Bangalore",
+    "job_country": "IN",
+    "job_employment_type": "Full-time",
+    "job_salary": "60000",
+    "job_experience": "mid",
+    "job_description": "We are looking for a Frontend Developer with strong React, Redux and Tailwind experience.",
+    "job_apply_link": "https://example.com/apply/1"
+  },
+  {
+    "job_id": "job_2",
+    "job_title": "Junior React Developer",
+    "employer_name": "Beta Solutions",
+    "job_city": "Delhi",
+    "job_country": "IN",
+    "job_employment_type": "Full-time",
+    "job_salary": "30000",
+    "job_experience": "junior",
+    "job_description": "Junior level role. Familiarity with React and basic CSS required.",
+    "job_apply_link": "https://example.com/apply/2"
+  },
+  {
+    "job_id": "job_3",
+    "job_title": "Senior Frontend Engineer",
+    "employer_name": "Gamma Corp",
+    "job_city": "Remote",
+    "job_country": "IN",
+    "job_employment_type": "Remote",
+    "job_salary": "120000",
+    "job_experience": "senior",
+    "job_description": "Senior frontend engineer with experience in React, performance optimization, and component design.",
+    "job_apply_link": "https://example.com/apply/3"
+  }
+]
